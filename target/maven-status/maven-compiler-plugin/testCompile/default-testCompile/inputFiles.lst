@@ -1,4 +1,6 @@
 /home/runner/solid/src/test/java/SRP/UserManagerTest.java
+/home/runner/solid/src/test/java/ISP/PhoneTest.java
 /home/runner/solid/src/test/java/SRP/UserValidatorTest.java
 /home/runner/solid/src/test/java/SRP/UserRepositoryTest.java
+/home/runner/solid/src/test/java/ISP/DisposableCameraTest.java
 /home/runner/solid/src/test/java/SRP/NotificationServiceTest.java

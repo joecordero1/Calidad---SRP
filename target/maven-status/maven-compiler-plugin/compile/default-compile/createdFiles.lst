@@ -1,5 +1,10 @@
+ISP/Main.class
+ISP/Phone.class
+ISP/Rechargeable.class
 SRP/Main.class
 SRP/UserRepository.class
+ISP/Switchable.class
+ISP/DisposableCamera.class
 SRP/NotificationService.class
 SRP/UserManager.class
 SRP/UserValidator.class

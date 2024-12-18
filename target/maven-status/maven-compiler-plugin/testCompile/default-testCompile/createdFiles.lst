@@ -1,3 +1,5 @@
+ISP/PhoneTest.class
+ISP/DisposableCameraTest.class
 SRP/UserManagerTest.class
 SRP/UserRepositoryTest.class
 SRP/UserValidatorTest.class

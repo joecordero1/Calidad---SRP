@@ -1,6 +1,11 @@
 /home/runner/solid/src/main/java/SRP/UserRepository.java
+/home/runner/solid/src/main/java/ISP/Rechargeable.java
+/home/runner/solid/src/main/java/ISP/Phone.java
+/home/runner/solid/src/main/java/ISP/DisposableCamera.java
+/home/runner/solid/src/main/java/ISP/Main.java
 /home/runner/solid/src/main/java/SRP/UserManager.java
 /home/runner/solid/src/main/java/SRP/Main.java
 /home/runner/solid/src/main/java/SRP/UserValidator.java
 /home/runner/solid/src/main/java/SRP/NotificationService.java
 /home/runner/solid/src/main/java/SRP/antiguo.java
+/home/runner/solid/src/main/java/ISP/Switcheable.java
